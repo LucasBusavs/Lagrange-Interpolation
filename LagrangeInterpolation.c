@@ -34,6 +34,7 @@ int main(){
     }
 
     printf("Interpolated value at %.4f is %.4f.", xp, fp);
+    getchar();
 
     return 0;
 }
